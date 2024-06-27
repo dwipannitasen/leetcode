@@ -60,3 +60,7 @@
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/dwipannitasen/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dwipannitasen/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/dwipannitasen/leetcode/tree/master/1916-find-center-of-star-graph) |
