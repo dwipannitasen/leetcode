@@ -41,10 +41,12 @@
 # Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dwipannitasen/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/dwipannitasen/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dwipannitasen/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/dwipannitasen/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
@@ -54,6 +56,7 @@
 # Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dwipannitasen/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/dwipannitasen/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Prefix Sum
 |  |
@@ -64,3 +67,7 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/dwipannitasen/leetcode/tree/master/1916-find-center-of-star-graph) |
+# Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dwipannitasen/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
