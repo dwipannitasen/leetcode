@@ -91,3 +91,10 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/dwipannitasen/leetcode/tree/master/0503-next-greater-element-ii) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/dwipannitasen/leetcode/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics End-->
