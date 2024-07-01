@@ -109,4 +109,8 @@
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dwipannitasen/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/dwipannitasen/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
