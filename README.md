@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dwipannitasen/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -118,18 +119,22 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Tree
 |  |
 | ------- |
