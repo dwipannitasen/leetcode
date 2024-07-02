@@ -100,6 +100,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dwipannitasen/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -113,4 +114,20 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dwipannitasen/leetcode/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
