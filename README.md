@@ -100,6 +100,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dwipannitasen/leetcode/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dwipannitasen/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -118,6 +119,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dwipannitasen/leetcode/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
