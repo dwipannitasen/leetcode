@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dwipannitasen/leetcode/tree/master/0007-reverse-integer) |
+| [2645-pass-the-pillow](https://github.com/dwipannitasen/leetcode/tree/master/2645-pass-the-pillow) |
 ## Array
 |  |
 | ------- |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dwipannitasen/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/dwipannitasen/leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
