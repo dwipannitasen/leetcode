@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dwipannitasen/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dwipannitasen/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -189,4 +190,8 @@
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/dwipannitasen/leetcode/tree/master/2645-pass-the-pillow) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dwipannitasen/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
