@@ -122,11 +122,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dwipannitasen/leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/dwipannitasen/leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/dwipannitasen/leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -137,6 +139,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/dwipannitasen/leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Tree
