@@ -105,6 +105,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dwipannitasen/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dwipannitasen/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [0075-sort-colors](https://github.com/dwipannitasen/leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dwipannitasen/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,4 +213,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/dwipannitasen/leetcode/tree/master/0206-reverse-linked-list) |
+## Counting
+|  |
+| ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dwipannitasen/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
