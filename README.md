@@ -126,6 +126,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dwipannitasen/leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/dwipannitasen/leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/dwipannitasen/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dwipannitasen/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -136,6 +137,7 @@
 | [0075-sort-colors](https://github.com/dwipannitasen/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/dwipannitasen/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dwipannitasen/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/dwipannitasen/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/dwipannitasen/leetcode/tree/master/0908-middle-of-the-linked-list) |
