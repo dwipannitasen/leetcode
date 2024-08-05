@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dwipannitasen/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dwipannitasen/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/dwipannitasen/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/dwipannitasen/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -134,6 +135,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dwipannitasen/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/dwipannitasen/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/dwipannitasen/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dwipannitasen/leetcode/tree/master/0142-linked-list-cycle-ii) |
