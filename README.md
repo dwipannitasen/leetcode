@@ -103,6 +103,7 @@
 | [0001-two-sum](https://github.com/dwipannitasen/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/dwipannitasen/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dwipannitasen/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/dwipannitasen/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dwipannitasen/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dwipannitasen/leetcode/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/dwipannitasen/leetcode/tree/master/0268-missing-number) |
 | [2645-pass-the-pillow](https://github.com/dwipannitasen/leetcode/tree/master/2645-pass-the-pillow) |
 ## Array
 |  |
@@ -127,6 +129,7 @@
 | [0001-two-sum](https://github.com/dwipannitasen/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dwipannitasen/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/dwipannitasen/leetcode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/dwipannitasen/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dwipannitasen/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -146,12 +149,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dwipannitasen/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dwipannitasen/leetcode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/dwipannitasen/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Tree
@@ -225,4 +230,8 @@
 |  |
 | ------- |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dwipannitasen/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dwipannitasen/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
