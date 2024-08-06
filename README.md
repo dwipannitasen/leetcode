@@ -239,4 +239,8 @@
 | [0136-single-number](https://github.com/dwipannitasen/leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/dwipannitasen/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dwipannitasen/leetcode/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/dwipannitasen/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
