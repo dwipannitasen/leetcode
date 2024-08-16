@@ -140,6 +140,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dwipannitasen/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dwipannitasen/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dwipannitasen/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/dwipannitasen/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,4 +256,8 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dwipannitasen/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/dwipannitasen/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dwipannitasen/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/dwipannitasen/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
