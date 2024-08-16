@@ -122,6 +122,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/dwipannitasen/leetcode/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/dwipannitasen/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/dwipannitasen/leetcode/tree/master/0367-valid-perfect-square) |
 | [2645-pass-the-pillow](https://github.com/dwipannitasen/leetcode/tree/master/2645-pass-the-pillow) |
 ## Array
 |  |
@@ -156,6 +157,7 @@
 | [0268-missing-number](https://github.com/dwipannitasen/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dwipannitasen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dwipannitasen/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/dwipannitasen/leetcode/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
