@@ -1,7 +1,7 @@
 class Solution {
     public boolean isUgly(int n) {
         if(n==0) return false;
-        if(n>0 && n<=3) return true;
+        
         // while(n%2==0){
         //     n=n/2;
         // }
