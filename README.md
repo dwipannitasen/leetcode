@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dwipannitasen/leetcode/tree/master/0007-reverse-integer) |
+| [0263-ugly-number](https://github.com/dwipannitasen/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/dwipannitasen/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/dwipannitasen/leetcode/tree/master/0367-valid-perfect-square) |
 | [2645-pass-the-pillow](https://github.com/dwipannitasen/leetcode/tree/master/2645-pass-the-pillow) |
