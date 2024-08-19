@@ -111,6 +111,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dwipannitasen/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dwipannitasen/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dwipannitasen/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dwipannitasen/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dwipannitasen/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/dwipannitasen/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/dwipannitasen/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dwipannitasen/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -263,4 +265,8 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dwipannitasen/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dwipannitasen/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
