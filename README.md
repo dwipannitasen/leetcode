@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dwipannitasen/leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/dwipannitasen/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dwipannitasen/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/dwipannitasen/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/dwipannitasen/leetcode/tree/master/0268-missing-number) |
@@ -238,6 +239,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dwipannitasen/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dwipannitasen/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/dwipannitasen/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Simulation
@@ -316,4 +318,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dwipannitasen/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dwipannitasen/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
